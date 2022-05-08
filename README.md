@@ -1,3 +1,3 @@
 # ProcessMining
-# Repo for labs 
+## Repo for labs 
 # created by Mariia Salabai
